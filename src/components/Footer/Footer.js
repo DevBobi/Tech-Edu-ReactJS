@@ -26,7 +26,7 @@ const Footer = () => {
             <div className="mt-2">
                 <h2>Tech<span className="text-info">Edu</span></h2>
                 <p className="text-opacity-50 text-light"><small>© TeachingHome - 2025</small></p>
-                <Link></Link>
+
             </div>
         </div>
     );

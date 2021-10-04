@@ -21,7 +21,7 @@ const AboutUs = () => {
                     <div className="col-md-4">
                         <div className="about mb-5">
                             <div className="about-text">
-                                <h4>Why Choose Medlearn</h4>
+                                <h4>Why Choose Us?</h4>
                                 <p className='text-Justify'>ullamco laboris nisi ut aliquip ex ea commodo cons equat. Du aute irure dolor in repreh enderit in voluptate velit esse cillumo eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat no proident, sunt in culpa qui officia dese aute irure dolor in</p>
                                 <button className='btn btn-dark'>Read More</button>
                             </div>

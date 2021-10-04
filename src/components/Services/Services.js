@@ -5,10 +5,11 @@ import { ImOffice, ImBubble, ImBook } from "react-icons/im";
 
 const Services = () => {
     return (
-        <div className="sevices ">
+        <div className="sevices my-5">
             <div className="container">
                 <div className="services mb-5 text-light">
-                    <h1>We can help you with</h1>
+                    <h1>Our Services</h1>
+                    <p className="text-danger">We can help you with,</p>
                 </div>
                 <div className="mb-5">
                     <Row xs={1} md={3} className="g-4">
