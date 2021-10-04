@@ -4,9 +4,9 @@ import './TopSection.css';
 const TopSection = () => {
     return (
         <div className="sec-container">
-            <div className="text-light top-content">
-                <h5>Hi, I am Linda.</h5>
-                <h2>We help people break the comfort zone & live the life at the full potential using backed by science strategies for success.</h2>
+            <div className="top-content">
+                <h1 className="title p-3">Tech<span className="text-warning">Edu</span></h1>
+                <p className=" text-light bg-dark p-2">"We help people acheiving skills backed by science strategies for success".</p>
             </div>
         </div>
     );

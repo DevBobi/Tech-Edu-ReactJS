@@ -11,7 +11,7 @@ const Navigation = () => {
                         to="/home"
                         style={{ textDecoration: "none", color: "#ff9e32" }}
                     >
-                        <h2>TechHome</h2>
+                        <h2>Tech<span className="text-light">Edu</span></h2>
                     </NavLink>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />

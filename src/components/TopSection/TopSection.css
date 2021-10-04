@@ -1,14 +1,21 @@
 .sec-container{
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-      url("../../images/section.jpg");
-    height: 90vh;
+      url("https://cdn-dhpdl.nitrocdn.com/eXyNilVRxNvHoiBAzusmteQelMOxNXVN/assets/static/optimized/rev-5d4e490/wp/edubin/learndash/wp-content/themes/edubin/assets/images/header.jpg");
+    /* height: 90vh; */
+    height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
 }
 .top-content{
     position: absolute;
-    top: 50%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+.title{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color:rgb(255, 255, 255);
+  font-weight:bolder;
+
 }
