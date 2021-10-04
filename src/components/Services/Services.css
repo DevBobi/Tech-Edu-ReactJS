@@ -1,4 +1,10 @@
 .sevices{
-    background-color: rgba(14, 174, 202, 0.89);
-    border-radius: 10px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+      url("https://cdn-dhpdl.nitrocdn.com/eXyNilVRxNvHoiBAzusmteQelMOxNXVN/assets/static/optimized/rev-5d4e490/wp/edubin/learndash/wp-content/themes/edubin/assets/images/header.jpg");
+    width: 100%;
+    height: fit-content;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
