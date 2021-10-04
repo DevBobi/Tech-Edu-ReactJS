@@ -39,7 +39,7 @@ const Navigation = () => {
                                     color: "white",
                                 }}
                             >
-                                Course
+                                Courses
                             </NavLink>
                         </Nav.Link>
                         <Nav.Link className="nav-menu">
