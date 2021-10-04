@@ -18,7 +18,7 @@ const Course = (props) => {
                             <h4 className="text-warning">{price}$</h4>
                         </Card.Text>
                         <hr />
-                        <button className='btn btn-outline-dark'>Read More</button>
+                        <button className='btn btn-outline-warning'>Read More</button>
                     </Card.Body>
                 </Card>
             </Col>
