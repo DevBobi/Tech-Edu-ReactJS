@@ -1,13 +1,10 @@
 import React from 'react';
-import { ImBook, } from "react-icons/im";
 import { GrUserExpert, GrCube, GrLike, GrCreditCard } from "react-icons/gr";
-
-
-//import './About.css'
 import aboutImg from '../../images/HR91.png';
 import './AboutUs.css';
 
 const AboutUs = () => {
+    // react icons 
     const thumbsUp = <GrLike />;
     const glope = <GrCube />;
     const triangle = <GrUserExpert />;
@@ -39,8 +36,7 @@ const AboutUs = () => {
                                 <h1>{thumbsUp}</h1>
                             </div>
                             <div className="trust-text ps-3">
-                                <h6>Trusted Over 10 Lakh Students</h6>
-                                <p>The Name That People Trust</p>
+                                <h6>Trusted Over 10k Students</h6>
                             </div>
                         </div>
                         <div className="trust d-flex align-items-center">
@@ -49,7 +45,6 @@ const AboutUs = () => {
                             </div>
                             <div className="trust-text ps-3">
                                 <h6>Instant Online Policy</h6>
-                                <p>Host of discounts – No claim bonus, Discount</p>
                             </div>
                         </div>
                         <div className="trust d-flex align-items-center">
@@ -58,7 +53,6 @@ const AboutUs = () => {
                             </div>
                             <div className="trust-text ps-3">
                                 <h6>Save Your Money</h6>
-                                <p>Host of discounts – No claim bonus, Discount</p>
                             </div>
                         </div>
                         <div className="trust d-flex align-items-center">
@@ -66,8 +60,7 @@ const AboutUs = () => {
                                 <h1>{triangle}</h1>
                             </div>
                             <div className="trust-text ps-3">
-                                <h6>Easy Claim</h6>
-                                <p>Easy claim procedures with no hassle</p>
+                                <h6>We Have Best Instructor</h6>
                             </div>
                         </div>
                     </div>
