@@ -1,8 +1,7 @@
 import React from 'react';
 import './Services.css';
 import { Row, Card, Col } from 'react-bootstrap';
-import { FaBeer, } from 'react-icons/fa';
-import { FiBook } from "react-icons/fi";
+import { ImOffice, ImBubble, ImBook } from "react-icons/im";
 
 const Services = () => {
     return (
@@ -10,13 +9,12 @@ const Services = () => {
             <div className="services mb-5">
                 <h1>We can help you with</h1>
             </div>
-
-            <div>
+            <div className="mb-5">
                 <Row xs={1} md={3} className="g-4">
                     <Col>
                         <Card>
                             <Card.Body>
-                                <Card.Title className="fs-1"><FaBeer /></Card.Title>
+                                <Card.Title className="fs-1"><ImBook /></Card.Title>
                                 <Card.Title>Coaching</Card.Title>
                                 <Card.Text>Magnetized strongly enough pre vending domain overeus all initial results to estimate.</Card.Text>
                             </Card.Body>
@@ -25,7 +23,7 @@ const Services = () => {
                     <Col>
                         <Card>
                             <Card.Body>
-                                <Card.Title className="fs-1"><FiBook /></Card.Title>
+                                <Card.Title className="fs-1"><ImBubble /></Card.Title>
                                 <Card.Title>Consultation</Card.Title>
                                 <Card.Text>Magnetized strongly enough pre vending domain overeus all initial results to estimate.</Card.Text>
                             </Card.Body>
@@ -34,7 +32,7 @@ const Services = () => {
                     <Col>
                         <Card>
                             <Card.Body>
-                                <Card.Title className="fs-1"><FaBeer /></Card.Title>
+                                <Card.Title className="fs-1"><ImOffice /></Card.Title>
                                 <Card.Title>Life Programs</Card.Title>
                                 <Card.Text>Magnetized strongly enough pre vending domain overeus all initial results to estimate.</Card.Text>
                             </Card.Body>

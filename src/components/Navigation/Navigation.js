@@ -56,7 +56,7 @@ const Navigation = () => {
                         </Nav.Link>
                         <Nav.Link className="nav-menu">
                             <NavLink
-                                to="/aboutus"
+                                to="/about"
                                 style={{ textDecoration: "none", color: "#ff9e32" }}
                                 activeStyle={{
                                     fontWeight: "bold",
