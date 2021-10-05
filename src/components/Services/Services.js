@@ -18,7 +18,7 @@ const Services = () => {
                                 <Card.Body>
                                     <Card.Title className="fs-1"><ImBook /></Card.Title>
                                     <Card.Title>Coaching</Card.Title>
-                                    <Card.Text className="px-5 py-3">Magnetized strongly enough pre vending domain overeus all initial results to estimate.</Card.Text>
+                                    <Card.Text className="px-5 py-3">We provide you the best coaching in you town. All you need to choose a career path.</Card.Text>
                                 </Card.Body>
                             </Card>
                         </Col>
@@ -27,7 +27,7 @@ const Services = () => {
                                 <Card.Body>
                                     <Card.Title className="fs-1"><ImBubble /></Card.Title>
                                     <Card.Title>Consultation</Card.Title>
-                                    <Card.Text className="px-5 py-3">Magnetized strongly enough pre vending domain overeus all initial results to estimate.</Card.Text>
+                                    <Card.Text className="px-5 py-3">We provide you the best consultation about career path. Our consultation is life changing.</Card.Text>
                                 </Card.Body>
                             </Card>
                         </Col>
@@ -36,7 +36,7 @@ const Services = () => {
                                 <Card.Body>
                                     <Card.Title className="fs-1"><ImOffice /></Card.Title>
                                     <Card.Title>Life Programs</Card.Title>
-                                    <Card.Text className="px-5 py-3">Magnetized strongly enough pre vending domain overeus all initial results to estimate.</Card.Text>
+                                    <Card.Text className="px-5 py-3">We also organize live events on career track that helps students having quic overview of growing.</Card.Text>
                                 </Card.Body>
                             </Card>
                         </Col>
