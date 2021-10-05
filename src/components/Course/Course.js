@@ -14,11 +14,11 @@ const Course = (props) => {
                         <Card.Text>{author}</Card.Text>
                         <Card.Title>{title}</Card.Title>
                         <Card.Text className="d-flex justify-content-around text-info">
-                            <span><FiUserCheck /> {user}</span>
+                            <span className="fs-5 text-info"><FiUserCheck /> {user}</span>
                             <h4 className="text-warning">{price}$</h4>
                         </Card.Text>
                         <hr />
-                        <button className='btn btn-outline-warning'>Read More</button>
+                        <button className='btn btn-outline-warning text-dark'>Read More</button>
                     </Card.Body>
                 </Card>
             </Col>

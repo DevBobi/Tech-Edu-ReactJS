@@ -23,7 +23,7 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
-            <div className="mt-2">
+            <div className="pb-lg-2">
                 <h2>Tech<span className="text-info">Edu</span></h2>
                 <p className="text-opacity-50 text-light"><small>© TeacEdu - 2025</small></p>
 
