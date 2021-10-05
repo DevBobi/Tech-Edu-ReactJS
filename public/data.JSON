@@ -39,16 +39,16 @@
         "title": "Drawing and Painting Course for Children",
         "author": " Mick Harris",
         "image": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2020/09/BLP019-768x432.jpg",
-        "user": "25",
+        "user": 12,
         "ratings": 5,
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing eli sedzs do eiusmod tempor incididunt ut labore et dolor magna alu Ut enim ad minim.",
-        "price": 12
+        "price": 5
     },
     {
         "title": "IELTS Course for international students",
         "author": "Kevin Perry",
         "image": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2021/04/BLP20-768x432.jpg",
-        "user": "25",
+        "user": 17,
         "ratings": 3,
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing eli sedzs do eiusmod tempor incididunt ut labore et dolor magna alu Ut enim ad minim.",
         "price": 15
@@ -66,25 +66,25 @@
         "title": "WordPress for Beginners – Master",
         "author": " Mick Harris",
         "image": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2020/09/BL437-768x432.jpg",
-        "user": "25",
+        "user": 22,
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing eli sedzs do eiusmod tempor incididunt ut labore et dolor magna alu Ut enim ad minim.",
-        "price": 25
+        "price": 20
     },
     {
         "title": "Teaching Children English Online Course",
         "author": " Mick Harris",
         "image": "https://cdn-dhpdl.nitrocdn.com/eXyNilVRxNvHoiBAzusmteQelMOxNXVN/assets/static/optimized/rev-5d4e490/wp/edubin/learndash/wp-content/uploads/sites/6/2019/03/bl638.jpg",
-        "user": "25",
+        "user": "30",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing eli sedzs do eiusmod tempor incididunt ut labore et dolor magna alu Ut enim ad minim.",
-        "price": 25
+        "price": "Free"
     },
     {
         "title": "CSS Flexbox Tutorial for Beginners",
         "author": " Rosa Bella",
         "image": "https://cdn-dhpdl.nitrocdn.com/eXyNilVRxNvHoiBAzusmteQelMOxNXVN/assets/static/optimized/rev-5d4e490/wp/edubin/learndash/wp-content/uploads/sites/6/2018/05/lpc3-N.jpeg",
-        "user": "25",
+        "user": 12,
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing eli sedzs do eiusmod tempor incididunt ut labore et dolor magna alu Ut enim ad minim.",
-        "price": 25
+        "price": "Free"
     },
     {
         "title": "C Programming Tutorials for Beginners",
@@ -92,14 +92,14 @@
         "image": "https://cdn-dhpdl.nitrocdn.com/eXyNilVRxNvHoiBAzusmteQelMOxNXVN/assets/static/optimized/rev-5d4e490/wp/edubin/learndash/wp-content/uploads/sites/6/2018/04/BL91.jpg",
         "user": "25",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing eli sedzs do eiusmod tempor incididunt ut labore et dolor magna alu Ut enim ad minim.",
-        "price": 25
+        "price": "Free"
     },
     {
         "title": "The Complete React Web Developer Course",
         "author": " Mick Harris",
         "image": "https://cdn-dhpdl.nitrocdn.com/eXyNilVRxNvHoiBAzusmteQelMOxNXVN/assets/static/optimized/rev-5d4e490/wp/edubin/learndash/wp-content/uploads/sites/6/2019/07/BL192.jpg",
-        "user": "25",
+        "user": 27,
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing eli sedzs do eiusmod tempor incididunt ut labore et dolor magna alu Ut enim ad minim.",
-        "price": 25
+        "price": 35
     }
 ]
